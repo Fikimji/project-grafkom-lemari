@@ -6,6 +6,7 @@
 #include <GL/glu.h>
 #include <GL/glut.h>
 #include <math.h>
+//hanya komentar
  //memberikan fileheader yang dibutuhkan
 GLuint texture[35];
 
